@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This r2 file is added at remote
+=======
+This r2 file is added in feature branch-fbb
+>>>>>>> 9c43201 (r2.txt is added to fbb)
